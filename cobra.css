@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+footer{
+    font-family: cursive ;
+    background-color: #000000;
+    color: pink;
+    height: 8vh;
+}
+#fundo {
+    
+    margin: 0;
+    width: 100vw;
+    height: 92vh;
+    background: #000000;
+}
+#tabela{
+    
+    font-family: cursive;
+    font-size: x-large;
+    
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    position: absolute; 
+    
+    background: Pink;
+    width: 500px;
+    height: 50px;
+    border: solid;
+    border-color: crimson;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+}
+#titulo {
+    margin-right: auto;
+    margin-left: 70px;
+}
+#score{
+    margin-right: 90px;
+}
+#game {
+
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    
+    width: 506px;
+    height: 506px;
+    background: crimson;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
