@@ -6,13 +6,13 @@ footer{
     font-family: cursive ;
     background-color: #000000;
     color: pink;
-    height: 8vh;
+    height: 11vh;
 }
 #fundo {
     
     margin: 0;
     width: 100vw;
-    height: 92vh;
+    height: 90vh;
     background: #000000;
 }
 #tabela{
